@@ -1,0 +1,4 @@
+echo"ALX">> alx
+touch school
+cat school
+echo echoschool
