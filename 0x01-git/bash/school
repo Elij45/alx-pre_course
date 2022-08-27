@@ -1,4 +1,2 @@
-echo"ALX">> alx
-touch school
-cat school
-echo echoschool
+#!/bin/bash
+the school is open!
